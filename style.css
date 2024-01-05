@@ -1,0 +1,38 @@
+.edit{
+    background-color: aqua;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+}
+.delete{
+    background-color: rgb(247, 4, 4);
+    border-radius: 20%;
+    
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+  }        
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+input{
+    display: flex;
+    flex-direction: column;
+      width: 500px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: bisque;
+}
